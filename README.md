@@ -1,5 +1,9 @@
 ### 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
-Hi!I am Shruti and I'm new to tech world!Hoping to learn a lot :D 
+<h2 align="center">Hi there, I'm Shruti! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
+
+<p align="center">
+  <i>New to the tech world, excited to learn and grow!</i>  
+</p> 
 ## ╰┈➤ 𝘈𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 
 ᯓ★pursuing B.E. in Electronics and  Computer Science/Engineering at Sir M. Visvesvaraya Institute of technology <br>
 ᯓ★currently in 2nd sem {8.2 SGPA in SEM I}
