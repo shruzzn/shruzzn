@@ -5,10 +5,8 @@ Hi!I am Shruti and I'm new to tech world!Hoping to learn a lot :D
 ᯓ★currently in 2nd sem {8.2 SGPA in SEM I}
 ## ╰┈➤ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘵𝘢𝘤𝘬 
 -total beginner-
-## ╰┈➤ 𝘓𝘪𝘯𝘬𝘦𝘥𝘐𝘯 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 
-
-## Connect with me:
-
+## ╰┈➤ 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-saumya-417869336)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/yeonzzmin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swu._.tea/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shruti_Saumya/)
