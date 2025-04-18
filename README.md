@@ -1,5 +1,5 @@
-##𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦! ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊ 
-Hi there, I'm Shruti! <br>
+## 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦! ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊ 
+Hi there, I'm Shruti!
 New to the tech world, excited to learn and grow!<br>
 ## ╰┈➤ 📘 𝘈𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 
 ᯓ★ 🎓 B.E. in Electronics and  Computer Science/Engineering <br>
