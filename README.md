@@ -1,4 +1,4 @@
-## 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
+### 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
 Hi!I am Shruti and I'm new to tech world!Hoping to learn a lot :D 
 ## ╰┈➤ 𝘈𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 
 ᯓ★pursuing B.E. in Electronics and  Computer Science/Engineering at Sir M. Visvesvaraya Institute of technology <br>
