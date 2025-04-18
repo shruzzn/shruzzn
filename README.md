@@ -1,6 +1,6 @@
 <p align='center'> 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦! ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊ </p>
 Hi there, I'm Shruti! <br>
-New to the tech world, excited to learn and grow!
+New to the tech world, excited to learn and grow!<br>
 ## ╰┈➤ 📘 𝘈𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 
 ᯓ★ 🎓 B.E. in Electronics and  Computer Science/Engineering <br>
 ᯓ★ 🏫 Sir M. Visvesvaraya Institute of technology <br>
