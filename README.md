@@ -6,4 +6,9 @@ Hi!I am Shruti and I'm new to tech world!Hoping to learn a lot :D
 ## ╰┈➤ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘵𝘢𝘤𝘬 
 -total beginner-
 ## ╰┈➤ 𝘓𝘪𝘯𝘬𝘦𝘥𝘐𝘯 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 
-https://www.linkedin.com/in/shruti-saumya-417869336
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-saumya-417869336)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
