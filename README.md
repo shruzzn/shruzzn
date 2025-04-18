@@ -7,8 +7,8 @@ New to the tech world, excited to learn and grow!
 ᯓ★ ⭐ currently in 2nd sem <br> 
 ᯓ★ 💗  8.2 SGPA in SEM I}
 ## ╰┈➤ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘵𝘢𝘤𝘬 
-ᯓ★ 🌱 currently a **total beginner**
-ᯓ★ ✨ learning c and python 
+ᯓ★ 🌱 currently a **total beginner** <br>
+ᯓ★ ✨ learning c and python (yup,totally      noob in it)
 ## ╰┈➤ 🔗 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-saumya-417869336)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/yeonzzmin)
