@@ -1,4 +1,5 @@
-# Shruti Saumya
+## Welcome to my profile ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
+[Hi!I am Shruti and I'm new to coding world!Hoping to learn a lot :D ]
 ## Academic Details
 [pursuing B.E. in Electronics and Computer Science/Engineering at Sir M. Visvesvaraya Institute of technology,currently in 2nd sem]
 ## Current technical stack
