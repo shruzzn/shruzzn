@@ -1,6 +1,5 @@
 ### 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
-<h2 align="center">Hi there, I'm Shruti! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
-
+<h2 align="center">Hi there, I'm Shruti! 
 <p align="center">
   <i>New to the tech world, excited to learn and grow!</i>  
 </p> 
