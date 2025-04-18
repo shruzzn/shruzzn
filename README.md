@@ -5,7 +5,7 @@ New to the tech world, excited to learn and grow!
 ᯓ★ 🎓 B.E. in Electronics and  Computer Science/Engineering <br>
 ᯓ★ 🏫 Sir M. Visvesvaraya Institute of technology <br>
 ᯓ★ ⭐ currently in 2nd sem <br> 
-ᯓ★ 💗  8.2 SGPA in SEM I}
+ᯓ★ 💗  8.2 SGPA in sem I
 ## ╰┈➤ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘵𝘢𝘤𝘬 
 ᯓ★ 🌱 currently a **total beginner** <br>
 ᯓ★ ✨ learning c and python (yup,totally      noob in it)
